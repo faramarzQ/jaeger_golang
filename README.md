@@ -1,7 +1,7 @@
 # jeager_golang
 A simple Jaeger open-tracing project implemented on golang
 
-This project demonstrate a simple usage of Jaeger in a golang applicatiion implemented to cover the contents of this article: [unpublished](). 
+This project demonstrate a simple usage of Jaeger in a golang applicatiion implemented to cover the contents of [this article](https://sokanacademy.com/plus/faramarzq/jaeger-introduction-with-golang). 
 
 ## Installation
 
