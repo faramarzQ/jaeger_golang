@@ -10,6 +10,10 @@ This project demonstrate a simple usage of Jaeger in a golang applicatiion imple
 
 >    `make up`    
 
+- Download project's dependencies:
+
+>    `go mod download`
+
 - Run server application using:    
 
 >    `make run-app`    
